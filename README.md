@@ -1,0 +1,1 @@
+# copy-browser-values-extension
